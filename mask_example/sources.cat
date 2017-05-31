@@ -1,0 +1,11 @@
+#   1 NUMBER                 Running object number                                     
+#   2 X_IMAGE                Object position along x                                    [pixel]
+#   3 Y_IMAGE                Object position along y                                    [pixel]
+#   4 FWHM_IMAGE             FWHM assuming a gaussian core                              [pixel]
+#   5 FLUX_RADIUS            Fraction-of-light radii                                    [pixel]
+#   6 FLUX_BEST              Best of FLUX_AUTO and FLUX_ISOCOR                          [count]
+#   7 CLASS_STAR             S/G classifier output                                     
+#   8 FLAGS                  Extraction flags                                          
+         1     98.4570     49.1351     5.47      4.175     1.928676  0.076   0
+         2      8.5876    110.4475     3.79      2.058     206.1465  0.401  24
+         3     14.1915     50.5071     3.67      1.884     1.380681  0.008   0
